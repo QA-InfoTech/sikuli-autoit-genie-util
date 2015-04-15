@@ -52,7 +52,7 @@ AutoITClient client=new AutoITClient();
 client.sendKeys("native window title", "native window text", "native window controlID","abc"); //send keys to native window element
 ```
 
-This repository contains many [examples of tests in a variety of different languages](https://github.com/jbt/markdown-editor)
+This repository contains many [examples of tests in a variety of different languages](https://github.com/QA-InfoTech/sikuli-autoit-genie-util/tree/master/sample-code)
 
 #### Implemented Methods
 
